@@ -1,0 +1,1 @@
+Dentro de shared tendremos los componentes que se compartirán en toda la maqueta de la aplicación.

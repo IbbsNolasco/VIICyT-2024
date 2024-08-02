@@ -1,0 +1,1 @@
+Dentro de esta carpeta, se estarán alojando todos los componentes de las opciones del menú.
